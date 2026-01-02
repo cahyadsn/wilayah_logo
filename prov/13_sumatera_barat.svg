@@ -6,7 +6,7 @@
 FILENAME      : 13_sumatera_barat.svg
 AUTHOR        : CAHYA DSN
 CREATED DATE  : 2026-01-01 22:34:29
-UPDATED DATE  : 2026-01-02 08:59:03
+UPDATED DATE  : 2026-01-02 14:03:07
 SOURCE CODE   : https://github.com/cahyadsn/wilayah_logo
 ================================================================================
 This program is free software; you can redistribute it and/or modify it under the
@@ -51,11 +51,12 @@ copyright (c) 2025 by cahya dsn; cahyadsn@gmail.com
   <defs>
     <style type="text/css">
      <![CDATA[
-      .fil_1 {fill:#ff0000;fill-rule:evenodd;}
-      .fil_2 {fill:#469951;fill-rule:evenodd;}
-      .fil_3 {fill:#ffff00;fill-rule:evenodd;}
-      .fil_4 {fill:#000000;fill-rule:evenodd;}
-      .fil_5 {fill:#ffffff;fill-rule:evenodd;}
+      path {fill-rule:evenodd;} 
+      .fil_1 {fill:#ff0000;}
+      .fil_2 {fill:#469951;}
+      .fil_3 {fill:#ffff00;}
+      .fil_4 {fill:#000000;}
+      .fil_5 {fill:#ffffff;}
      ]]>    
     </style>      
   </defs>

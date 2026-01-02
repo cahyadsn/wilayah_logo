@@ -6,7 +6,7 @@
 FILENAME      : 12_sumatera_utara.svg
 AUTHOR        : CAHYA DSN
 CREATED DATE  : 2026-01-01 22:34:29
-UPDATED DATE  : 2026-01-02 08:49:55
+UPDATED DATE  : 2026-01-02 14:04:29
 SOURCE CODE   : https://github.com/cahyadsn/wilayah_logo
 ================================================================================
 This program is free software; you can redistribute it and/or modify it under the
@@ -41,17 +41,18 @@ copyright (c) 2025 by cahya dsn; cahyadsn@gmail.com
   <defs>
     <style type="text/css">
      <![CDATA[
-      .c_01 {fill:#ffffff;fill-rule:evenodd;}
-      .c_02 {fill:#009D54;fill-rule:evenodd;}
-      .c_03 {fill:#064926;fill-rule:evenodd;}
-      .c_04 {fill:#c3d4dd;fill-rule:evenodd;}
-      .c_05 {fill:#636466;fill-rule:evenodd;}
-      .c_06 {fill:#84C98B;fill-rule:evenodd;}
-      .c_07 {fill:#009042;fill-rule:evenodd;}
-      .c_08 {fill:#ffe85e;fill:rule:evenodd;}
-      .c_09 {fill:#6C5735;fill:rule:evenodd;}
-      .c_10 {fill:#A78103;fill:rule:evenodd;}
-      .c_11 {fill:#c48411;fill:rule:evenodd;}
+      path,circle {fill-rule:evenodd;}
+      .c_01 {fill:#ffffff;}
+      .c_02 {fill:#009D54;}
+      .c_03 {fill:#064926;}
+      .c_04 {fill:#c3d4dd;}
+      .c_05 {fill:#636466;}
+      .c_06 {fill:#84C98B;}
+      .c_07 {fill:#009042;}
+      .c_08 {fill:#ffe85e;}
+      .c_09 {fill:#6C5735;}
+      .c_10 {fill:#A78103;}
+      .c_11 {fill:#c48411;}
       .s_01 {stop-color:#FFC20E}
      ]]>
     </style>
