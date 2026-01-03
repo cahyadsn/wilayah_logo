@@ -6,7 +6,7 @@
 FILENAME      : 14_riau.svg
 AUTHOR        : CAHYA DSN
 CREATED DATE  : 2026-01-01 22:34:29
-UPDATED DATE  : 2026-01-02 20:59:37
+UPDATED DATE  : 2026-01-03 17:34:34
 SOURCE CODE   : https://github.com/cahyadsn/wilayah_logo
 ================================================================================
 This program is free software; you can redistribute it and/or modify it under the
@@ -47,6 +47,7 @@ copyright (c) 2025 by cahya dsn; cahyadsn@gmail.com
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <metadata id="author">cahya dsn</metadata>
   <defs>
     <style type="text/css">
      <![CDATA[
