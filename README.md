@@ -11,7 +11,7 @@ Data logo/lambang daerah pemerintahan Republik Indonesia, tingkat I (Provinsi) d
 Data logo/lambang daerah pemerintahan Republik Indonesia:
 
 ## Provinsi
-Ada dalam directory/folder **/prov** , dengan nama __[kode].png__ ([kode] = kode daerah pemerintahan sesuai Kepmendagri No 300.2.2.3128 Tahun 2025, lihat : https://github.com/cahyadsn/wilayah )
+Ada dalam directory/folder: **/prov** , dengan nama _[kode].png_ ([kode] = kode daerah pemerintahan sesuai Kepmendagri No 300.2.2.2138 Tahun 2025, lihat : https://github.com/cahyadsn/wilayah )
 
 ## TODO
 - melengkapi data logo/lambang provinsi
