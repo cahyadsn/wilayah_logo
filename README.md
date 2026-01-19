@@ -1,2 +1,30 @@
 # wilayah_logo
-Data logo/lambang daerah pemerintahan Republik Indonesia
+Data logo/lambang daerah pemerintahan Republik Indonesia, tingkat I (Provinsi) dan tingkat II (kabupaten/kota) dalam format **.png**
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/cahyadsn/wilayah_logo.svg)](https://github.com/cahyadsn/wilayah_logo/issues)
+[![GitHub forks](https://img.shields.io/github/forks/cahyadsn/wilayah_logo.svg)](https://github.com/cahyadsn/wilayah_logo/network)
+[![GitHub stars](https://img.shields.io/github/stars/cahyadsn/wilayah_logo.svg)](https://github.com/cahyadsn/wilayah_logo/stargazers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
+[![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/cahyadwiana)
+
+Data logo/lambang daerah pemerintahan Republik Indonesia:
+
+## Provinsi
+Ada dalam directory/folder **/prov** , dengan nama __[kode].png__ ([kode] = kode daerah pemerintahan sesuai Kepmendagri No 300.2.2.3128 Tahun 2025, lihat : https://github.com/cahyadsn/wilayah )
+
+## TODO
+- melengkapi data logo/lambang provinsi
+
+## DONASI
+- untuk donasi via transfer
+    - Bank BCA Digital (Blu) (501) 000 576 776 186
+    - Bank Jago (542) 5003 5796 1022
+    - Bank Sinarmas (153) 005 462 4719
+    - Bank Syariah Indonesia (BSI) 821-342-5550
+- untuk donasi via PayPal [https://paypal.me/cahyadwiana]
+- untuk donasi via QRIS CAHYADSN ID1022183125288 :
+
+![screenshot](https://github.com/cahyadsn/wilayah/blob/master/docs/qr_code.cahyadsn.png?raw=true 'Donasi via QRIS CAHYADSN')
+
+[di sini]: https://wilayah.cahyadsn.com/
