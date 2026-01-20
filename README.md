@@ -12,9 +12,13 @@ Data logo/lambang daerah pemerintahan Republik Indonesia, tingkat I (Provinsi) d
 Data logo/lambang daerah pemerintahan Republik Indonesia:
 
 - Provinsi
-    - Ada dalam directory/folder: **/prov/img/** , dengan nama _[kode].png_ ([kode] = kode daerah pemerintahan sesuai Kepmendagri No 300.2.2.2138 Tahun 2025, lihat : https://github.com/cahyadsn/wilayah )
+    - Ada dalam directory/folder: **/prov/img/** 
+    - file gambar dengan nama **[kode].png** ([kode] = 2 digit kode daerah provinsi sesuai Kepmendagri No 300.2.2.2138 Tahun 2025, lihat : https://github.com/cahyadsn/wilayah )
+    - contoh: **/prov/img/13.png** , **13** adalah kode wilayah untuk provinsi _Sumatera Barat_
 - Kabupaten/kota
-    - Ada dalam directory/folder: **/kab/\<kode provinsi\>/img/** , dengan nama _[kode].png_ ([kode] = kode daerah pemerintahan sesuai Kepmendagri No 300.2.2.2138 Tahun 2025, lihat : https://github.com/cahyadsn/wilayah )
+    - Ada dalam directory/folder: **/kab/[kode_provinsi]/img/** ([kode_provinsi] = 2 digit kode daerah provinsi sesuai Kepmendagri No 300.2.2.2138 Tahun 2025, lihat : https://github.com/cahyadsn/wilayah )
+    - file gambar dengan nama **[kode].png** ([kode] = 5 digit kode daerah kabupaten/kota sesuai Kepmendagri No 300.2.2.2138 Tahun 2025, lihat : https://github.com/cahyadsn/wilayah )
+    - contoh: **/kab/11/img/11.01.png** , **11** adalah kode wilayah untuk provinsi _Aceh_ , **11.01** adalah kode wilayah kabupaten _Aceh Selatan_
     
 ## TODO
 - melengkapi data logo/lambang daerah tingkat II / kabupaten-kota
