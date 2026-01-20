@@ -8,11 +8,14 @@ Data logo/lambang daerah pemerintahan Republik Indonesia, tingkat I (Provinsi) d
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
 [![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/cahyadwiana)
 
+## DATA LOGO/LAMBANG DAERAH
 Data logo/lambang daerah pemerintahan Republik Indonesia:
 
-## Provinsi
-Ada dalam directory/folder: **/prov** , dengan nama _[kode].png_ ([kode] = kode daerah pemerintahan sesuai Kepmendagri No 300.2.2.2138 Tahun 2025, lihat : https://github.com/cahyadsn/wilayah )
-
+- Provinsi
+    - Ada dalam directory/folder: **/prov/img/** , dengan nama _[kode].png_ ([kode] = kode daerah pemerintahan sesuai Kepmendagri No 300.2.2.2138 Tahun 2025, lihat : https://github.com/cahyadsn/wilayah )
+- Kabupaten/kota
+    - Ada dalam directory/folder: **/kab/<kode provinsi>/img/** , dengan nama _[kode].png_ ([kode] = kode daerah pemerintahan sesuai Kepmendagri No 300.2.2.2138 Tahun 2025, lihat : https://github.com/cahyadsn/wilayah )
+    
 ## TODO
 - melengkapi data logo/lambang daerah tingkat II / kabupaten-kota
 
