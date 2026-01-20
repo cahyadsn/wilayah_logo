@@ -24,6 +24,7 @@ Data logo/lambang daerah pemerintahan Republik Indonesia:
 - melengkapi data logo/lambang daerah tingkat II / kabupaten-kota
 
 ## CHANGE LOG
+- melengkapi data gambar logo/lambang daerah kab/kota provinsi DKI Jakarta [2026-01-20 22:52:13] 
 - melengkapi data gambar logo/lambang daerah kab/kota provinsi Kep. Riau [2026-01-20 16:27:09] 
 - melengkapi data gambar logo/lambang daerah kab/kota provinsi Aceh [2026-01-20 14:02:21] 
 - melengkapi data gambar logo/lambang daerah tingkat I / provinsi [2026-01-20 11:30:57] 
