@@ -24,19 +24,19 @@ Data logo/lambang daerah pemerintahan Republik Indonesia:
 - melengkapi data logo/lambang daerah tingkat II / kabupaten-kota
 
 ## CHANGE LOG
-- melengkapi data gambar logo/lambang daerah kab/kota provinsi Bali [2026-01-21 16:08:34] 
-- melengkapi data gambar logo/lambang daerah kab/kota provinsi Riau [2026-01-21 15:42:34] 
-- melengkapi data gambar logo/lambang daerah kab/kota provinsi Jambi [2026-01-21 14:20:23] 
-- melengkapi data gambar logo/lambang daerah kab/kota provinsi Bengkulu [2026-01-21 13:40:42] 
-- melengkapi data gambar logo/lambang daerah kab/kota provinsi Kep. Bangka Belitung [2026-01-21 12:56:18] 
-- melengkapi data gambar logo/lambang daerah kab/kota provinsi Banten [2026-01-21 11:42:40] 
-- melengkapi data gambar logo/lambang daerah kab/kota provinsi Kalimantan Utara [2026-01-21 10:50:45] 
-- melengkapi data gambar logo/lambang daerah kab/kota provinsi Papua Barat Daya [2026-01-21 10:04:21] 
-- melengkapi data gambar logo/lambang daerah kab/kota provinsi DI Yogyakarta [2026-01-21 09:01:07] 
-- melengkapi data gambar logo/lambang daerah kab/kota provinsi DKI Jakarta [2026-01-20 22:52:13] 
-- melengkapi data gambar logo/lambang daerah kab/kota provinsi Kep. Riau [2026-01-20 16:27:09] 
-- melengkapi data gambar logo/lambang daerah kab/kota provinsi Aceh [2026-01-20 14:02:21] 
-- melengkapi data gambar logo/lambang daerah tingkat I / provinsi [2026-01-20 11:30:57] 
+- melengkapi data gambar logo/lambang daerah kab/kota provinsi Bali [**2026-01-21 16:08:34**] 
+- melengkapi data gambar logo/lambang daerah kab/kota provinsi Riau [**2026-01-21 15:42:34**] 
+- melengkapi data gambar logo/lambang daerah kab/kota provinsi Jambi [**2026-01-21 14:20:23**] 
+- melengkapi data gambar logo/lambang daerah kab/kota provinsi Bengkulu [**2026-01-21 13:40:42**] 
+- melengkapi data gambar logo/lambang daerah kab/kota provinsi Kep. Bangka Belitung [**2026-01-21 12:56:18**] 
+- melengkapi data gambar logo/lambang daerah kab/kota provinsi Banten [**2026-01-21 11:42:40**] 
+- melengkapi data gambar logo/lambang daerah kab/kota provinsi Kalimantan Utara [**2026-01-21 10:50:45**] 
+- melengkapi data gambar logo/lambang daerah kab/kota provinsi Papua Barat Daya [**2026-01-21 10:04:21**] 
+- melengkapi data gambar logo/lambang daerah kab/kota provinsi DI Yogyakarta [**2026-01-21 09:01:07**] 
+- melengkapi data gambar logo/lambang daerah kab/kota provinsi DKI Jakarta [**2026-01-20 22:52:13**] 
+- melengkapi data gambar logo/lambang daerah kab/kota provinsi Kep. Riau [**2026-01-20 16:27:09**] 
+- melengkapi data gambar logo/lambang daerah kab/kota provinsi Aceh [**2026-01-20 14:02:21**] 
+- melengkapi data gambar logo/lambang daerah tingkat I / provinsi [**2026-01-20 11:30:57**] 
 
 ## DONASI
 - untuk donasi via transfer
@@ -47,6 +47,6 @@ Data logo/lambang daerah pemerintahan Republik Indonesia:
 - untuk donasi via PayPal [https://paypal.me/cahyadwiana]
 - untuk donasi via QRIS CAHYADSN ID1022183125288 :
 
-![screenshot](https://github.com/cahyadsn/wilayah/blob/master/docs/qr_code.cahyadsn.png?raw=true 'Donasi via QRIS CAHYADSN')
+![screenshot**](https://github.com/cahyadsn/wilayah/blob/master/docs/qr_code.cahyadsn.png?raw=true 'Donasi via QRIS CAHYADSN')
 
-[di sini]: https://wilayah.cahyadsn.com/
+[di sini**]: https://wilayah.cahyadsn.com/
