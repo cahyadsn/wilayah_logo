@@ -1,4 +1,4 @@
-# KODE/LAMBANG KABUPATEN/KOTA DI PROVINSI DI YOGYAKARTA
+# KODE/LAMBANG KABUPATEN/KOTA DI PROVINSI D.I. YOGYAKARTA
 
 | kode  |nama                          | filename  |
 |-------|------------------------------|-----------|

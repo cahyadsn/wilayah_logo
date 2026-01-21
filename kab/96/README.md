@@ -1,4 +1,4 @@
-# KODE/LAMBANG KABUPATEN/KOTA DI PROVINSI KEP. RIAU
+# KODE/LAMBANG KABUPATEN/KOTA DI PROVINSI PAPUA BARAT DAYA
 
 | kode  |nama                          | filename  |
 |-------|------------------------------|-----------|
