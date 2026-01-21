@@ -24,6 +24,7 @@ Data logo/lambang daerah pemerintahan Republik Indonesia:
 - melengkapi data logo/lambang daerah tingkat II / kabupaten-kota
 
 ## CHANGE LOG
+- melengkapi data gambar logo/lambang daerah kab/kota provinsi Bengkulu [2026-01-21 13:40:42] 
 - melengkapi data gambar logo/lambang daerah kab/kota provinsi Kep. Bangka Belitung [2026-01-21 12:56:18] 
 - melengkapi data gambar logo/lambang daerah kab/kota provinsi Banten [2026-01-21 11:42:40] 
 - melengkapi data gambar logo/lambang daerah kab/kota provinsi Kalimantan Utara [2026-01-21 10:50:45] 
