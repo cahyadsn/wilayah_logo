@@ -21,7 +21,7 @@ Data logo/lambang daerah pemerintahan Republik Indonesia:
     - contoh: **/kab/11/img/11.01.png** , **11** adalah kode wilayah untuk provinsi _Aceh_ , **11.01** adalah kode wilayah kabupaten _Aceh Selatan_
 
 ## TAUTAN TERKAIT
-- Data kode wilayah berdasarkan Kepmendagri No 300.2.2.2138 Th 2025 : https://github.com/cahyadsn/wilayah_logo
+- Data kode wilayah berdasarkan Kepmendagri No 300.2.2.2138 Th 2025 : https://github.com/cahyadsn/wilayah
 - Data kodepos vs kode wilayah administrasi pemerintahan Indoensia : https://github.com/cahyadsn/wilayah_kodepos
 - Data referensi Kode dan Data Wilayah Administrasi Pemerintahan dan Pulau Indonesia : https://github.com/cahyadsn/wilayah_ref
 - Data boundaries/polygon berdasarkan kode wilayah adminsitrasi pemerintahan Indonesia : https://github.com/cahyadsn/wilayah_boundaries
