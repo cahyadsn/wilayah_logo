@@ -30,6 +30,7 @@ Data logo/lambang daerah pemerintahan Republik Indonesia:
 - melengkapi data logo/lambang daerah tingkat II / kabupaten-kota
 
 ## CHANGE LOG
+- [**2026-01-22 08:47:40**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Kalimantan Timur
 - [**2026-01-21 20:53:56**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Lampung
 - [**2026-01-21 16:59:25**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Nusa Tenggara Barat
 - [**2026-01-21 16:08:34**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Bali
