@@ -1,7 +1,7 @@
 # DATA KODE/LAMBANG PROVINSI
 
 |kode|nama provinsi                 |filename|logo/lambang                   |
-|----|------------------------------|--------|-------------------------------|
+|----|------------------------------|--------|:-----------------------------:|
 | 11 |Aceh                          | 11.png |![11.png](thumbs/11_thumbs.png)|
 | 12 |Sumatera Utara                | 12.png |![12.png](thumbs/12_thumbs.png)|
 | 13 |Sumatera Barat                | 13.png |![13.png](thumbs/13_thumbs.png)|
