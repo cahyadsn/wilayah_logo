@@ -7,7 +7,7 @@
 | 13 |Sumatera Barat                |   -  |
 | 14 |Riau                          | done |
 | 15 |Jambi                         | done |
-| 16 |Sumatera Selatan              |   -  |
+| 16 |Sumatera Selatan              | done |
 | 17 |Bengkulu                      | done |
 | 18 |Lampung                       | done |
 | 19 |Kepulauan Bangka Belitung     | done |
