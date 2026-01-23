@@ -4,7 +4,7 @@
 |----|------------------------------|------|
 | 11 |Aceh                          | done |
 | 12 |Sumatera Utara                |   -  |
-| 13 |Sumatera Barat                |   -  |
+| 13 |Sumatera Barat                | done |
 | 14 |Riau                          | done |
 | 15 |Jambi                         | done |
 | 16 |Sumatera Selatan              | done |
