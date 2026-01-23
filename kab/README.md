@@ -3,7 +3,7 @@
 |kode|nama                          |status|
 |----|------------------------------|------|
 | 11 |Aceh                          | done |
-| 12 |Sumatera Utara                |   -  |
+| 12 |Sumatera Utara                | done |
 | 13 |Sumatera Barat                | done |
 | 14 |Riau                          | done |
 | 15 |Jambi                         | done |
