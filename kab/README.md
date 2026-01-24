@@ -21,7 +21,7 @@
 | 51 |Bali                          | done |
 | 52 |Nusa Tenggara Barat           | done |
 | 53 |Nusa Tenggara Timur           |   -  |
-| 61 |Kalimantan Barat              |   -  |
+| 61 |Kalimantan Barat              | done |
 | 62 |Kalimantan Tengah             |   -  |
 | 63 |Kalimantan Selatan            |   -  |
 | 64 |Kalimantan Timur              | done |
