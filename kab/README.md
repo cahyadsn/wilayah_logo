@@ -22,7 +22,7 @@
 | 52 |Nusa Tenggara Barat           | done |
 | 53 |Nusa Tenggara Timur           |   -  |
 | 61 |Kalimantan Barat              | done |
-| 62 |Kalimantan Tengah             |   -  |
+| 62 |Kalimantan Tengah             | done |
 | 63 |Kalimantan Selatan            |   -  |
 | 64 |Kalimantan Timur              | done |
 | 65 |Kalimantan Utara              | done |
