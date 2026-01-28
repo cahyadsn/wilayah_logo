@@ -14,7 +14,7 @@
 | 21 |Kepulauan Riau                | done |
 | 31 |Daerah Khusus Ibukota Jakarta | done |
 | 32 |Jawa Barat                    | done |
-| 33 |Jawa Tengah                   |   -  |
+| 33 |Jawa Tengah                   | done |
 | 34 |Daerah Istimewa Yogyakarta    | done |
 | 35 |Jawa Timur                    |   -  |
 | 36 |Banten                        | done |
