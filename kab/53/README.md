@@ -3,7 +3,7 @@
 | kode  |nama                          | filename  |logo/lambang                   |
 |-------|------------------------------|-----------|:-----------------------------:|
 | 53.01 |Kabupaten Kupang              | 53.01.png |![53.01.png](thumbs/53.01_thumbs.png)|
-| 53.02 |Kab Timor Tengah Selatan      | 53.02.png |![53.02.png](thumbs/53.02_thumbs.png)|
+| 53.02 |Kabupaten Timor Tengah Selatan| 53.02.png |![53.02.png](thumbs/53.02_thumbs.png)|
 | 53.03 |Kabupaten Timor Tengah Utara  | 53.03.png |![53.03.png](thumbs/53.03_thumbs.png)|
 | 53.04 |Kabupaten Belu                | 53.04.png |![53.04.png](thumbs/53.04_thumbs.png)|
 | 53.05 |Kabupaten Alor                | 53.05.png |![53.05.png](thumbs/53.05_thumbs.png)|
