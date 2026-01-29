@@ -20,7 +20,7 @@
 | 36 |Banten                        | done |
 | 51 |Bali                          | done |
 | 52 |Nusa Tenggara Barat           | done |
-| 53 |Nusa Tenggara Timur           |   -  |
+| 53 |Nusa Tenggara Timur           | done |
 | 61 |Kalimantan Barat              | done |
 | 62 |Kalimantan Tengah             | done |
 | 63 |Kalimantan Selatan            | done |
