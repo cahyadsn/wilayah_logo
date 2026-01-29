@@ -16,7 +16,7 @@
 | 32 |Jawa Barat                    | done |
 | 33 |Jawa Tengah                   | done |
 | 34 |Daerah Istimewa Yogyakarta    | done |
-| 35 |Jawa Timur                    |   -  |
+| 35 |Jawa Timur                    | done |
 | 36 |Banten                        | done |
 | 51 |Bali                          | done |
 | 52 |Nusa Tenggara Barat           | done |
