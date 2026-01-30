@@ -34,7 +34,7 @@
 | 76 |Sulawesi Barat                |   -  |
 | 81 |Maluku                        | done |
 | 82 |Maluku Utara                  | done |
-| 91 |Papua                         |   -  |
+| 91 |Papua                         | done |
 | 92 |Papua Barat                   | done |
 | 93 |Papua Selatan                 | done |
 | 94 |Papua Tengah                  | done | 
