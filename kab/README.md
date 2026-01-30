@@ -33,7 +33,7 @@
 | 75 |Gorontalo                     |   -  |
 | 76 |Sulawesi Barat                |   -  |
 | 81 |Maluku                        | done |
-| 82 |Maluku Utara                  |   -  |
+| 82 |Maluku Utara                  | done |
 | 91 |Papua                         |   -  |
 | 92 |Papua Barat                   |   -  |
 | 93 |Papua Selatan                 | done |
