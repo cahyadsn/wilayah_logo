@@ -31,6 +31,7 @@ Data logo/lambang daerah pemerintahan Republik Indonesia:
 - melengkapi data thumbnails logo/lambang daerah tingkat II / kabupaten-kota
 
 ## CHANGE LOG
+- [**2026-01-30 15:35:19**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Sulawesi Barat
 - [**2026-01-30 14:11:17**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Papua
 - [**2026-01-30 13:50:06**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Papua Barat
 - [**2026-01-30 11:37:59**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Papua Tengah
