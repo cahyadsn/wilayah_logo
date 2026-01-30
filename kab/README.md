@@ -31,7 +31,7 @@
 | 73 |Sulawesi Selatan              |   -  |
 | 74 |Sulawesi Tenggara             |   -  |
 | 75 |Gorontalo                     |   -  |
-| 76 |Sulawesi Barat                |   -  |
+| 76 |Sulawesi Barat                | done |
 | 81 |Maluku                        | done |
 | 82 |Maluku Utara                  | done |
 | 91 |Papua                         | done |
