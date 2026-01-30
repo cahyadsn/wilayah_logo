@@ -37,6 +37,6 @@
 | 91 |Papua                         |   -  |
 | 92 |Papua Barat                   |   -  |
 | 93 |Papua Selatan                 | done |
-| 94 |Papua Tengah                  |   -  | 
+| 94 |Papua Tengah                  | done | 
 | 95 |Papua Pegunungan              | done |
 | 96 |Papua Barat Daya              | done |
