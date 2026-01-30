@@ -35,7 +35,7 @@
 | 81 |Maluku                        | done |
 | 82 |Maluku Utara                  | done |
 | 91 |Papua                         |   -  |
-| 92 |Papua Barat                   |   -  |
+| 92 |Papua Barat                   | done |
 | 93 |Papua Selatan                 | done |
 | 94 |Papua Tengah                  | done | 
 | 95 |Papua Pegunungan              | done |
