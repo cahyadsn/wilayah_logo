@@ -26,7 +26,7 @@
 | 63 |Kalimantan Selatan            | done |
 | 64 |Kalimantan Timur              | done |
 | 65 |Kalimantan Utara              | done |
-| 71 |Sulawesi Utara                |   -  |
+| 71 |Sulawesi Utara                | done |
 | 72 |Sulawesi Tengah               | done |
 | 73 |Sulawesi Selatan              |   -  |
 | 74 |Sulawesi Tenggara             | done |
