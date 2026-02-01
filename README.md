@@ -27,10 +27,11 @@ Data logo/lambang daerah pemerintahan Republik Indonesia:
 - Data boundaries/polygon berdasarkan kode wilayah adminsitrasi pemerintahan Indonesia : https://github.com/cahyadsn/wilayah_boundaries
 
 ## TODO
-- melengkapi data logo/lambang daerah tingkat II / kabupaten-kota
-- melengkapi data thumbnails logo/lambang daerah tingkat II / kabupaten-kota
+- verifikasi data logo/lambang daerah tingkat I Provinsi dan tingkat II / kabupaten-kota
+- melengkapi data thumbnails logo/lambang daerah tingkat I / Provinsi
 
 ## CHANGE LOG
+- [**2026-02-01 08:37:10**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Sulawesi Selatan
 - [**2026-01-31 10:06:56**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Sulawesi Utara
 - [**2026-01-31 01:04:39**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Sulawesi Tengah
 - [**2026-01-31 00:38:22**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Sulawesi Tenggara
