@@ -31,7 +31,7 @@ Data logo/lambang daerah pemerintahan Republik Indonesia:
 
 ## CHANGE LOG 
 - [**2026-02-02 11:38:52**] release ver 26.02
-- change log sebelumnya (https://github.com/cahyadsn/wilayah_logo/change_log.md) 
+- change log sebelumnya [https://github.com/cahyadsn/wilayah_logo/change_log.md](https://github.com/cahyadsn/wilayah_logo/blob/main/change_log.md) 
 
 ## DONASI
 - untuk donasi via transfer
