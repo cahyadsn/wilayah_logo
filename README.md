@@ -28,48 +28,10 @@ Data logo/lambang daerah pemerintahan Republik Indonesia:
 
 ## TODO
 - verifikasi data logo/lambang daerah tingkat I Provinsi dan tingkat II / kabupaten-kota
-- melengkapi data thumbnails logo/lambang daerah tingkat I / Provinsi
 
-## CHANGE LOG
-- [**2026-02-01 08:37:10**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Sulawesi Selatan
-- [**2026-01-31 10:06:56**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Sulawesi Utara
-- [**2026-01-31 01:04:39**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Sulawesi Tengah
-- [**2026-01-31 00:38:22**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Sulawesi Tenggara
-- [**2026-01-30 20:52:39**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Gorontalo
-- [**2026-01-30 15:35:19**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Sulawesi Barat
-- [**2026-01-30 14:11:17**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Papua
-- [**2026-01-30 13:50:06**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Papua Barat
-- [**2026-01-30 11:37:59**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Papua Tengah
-- [**2026-01-30 09:50:58**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Maluku Utara
-- [**2026-01-30 08:26:01**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Maluku
-- [**2026-01-29 17:01:29**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Jawa Timur
-- [**2026-01-29 14:11:01**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Nusa Tenggara Timur
-- [**2026-01-29 08:46:05**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Papua Pegunungan
-- [**2026-01-28 09:12:18**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Jawa Tengah
-- [**2026-01-26 10:42:13**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Kalimantan Selatan
-- [**2026-01-26 08:07:12**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Kalimantan Tengah
-- [**2026-01-25 00:36:19**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Kalimantan Barat
-- [**2026-01-24 15:43:05**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Jawa Barat
-- [**2026-01-23 15:03:30**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Sumatera Utara
-- [**2026-01-23 11:24:50**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Papua Selatan
-- [**2026-01-23 09:28:39**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Sumatera Barat
-- [**2026-01-22 16:24:33**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Sumatera Selatan
-- [**2026-01-22 08:47:40**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Kalimantan Timur
-- [**2026-01-21 20:53:56**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Lampung
-- [**2026-01-21 16:59:25**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Nusa Tenggara Barat
-- [**2026-01-21 16:08:34**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Bali
-- [**2026-01-21 15:42:34**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Riau
-- [**2026-01-21 14:20:23**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Jambi
-- [**2026-01-21 13:40:42**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Bengkulu
-- [**2026-01-21 12:56:18**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Kep. Bangka Belitung
-- [**2026-01-21 11:42:40**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Banten
-- [**2026-01-21 10:50:45**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Kalimantan Utara
-- [**2026-01-21 10:04:21**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Papua Barat Daya
-- [**2026-01-21 09:01:07**] melengkapi data gambar logo/lambang daerah kab/kota provinsi DI Yogyakarta
-- [**2026-01-20 22:52:13**] melengkapi data gambar logo/lambang daerah kab/kota provinsi DKI Jakarta
-- [**2026-01-20 16:27:09**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Kep. Riau
-- [**2026-01-20 14:02:21**] melengkapi data gambar logo/lambang daerah kab/kota provinsi Aceh
-- [**2026-01-20 11:30:57**] melengkapi data gambar logo/lambang daerah tingkat I / provinsi
+## CHANGE LOG 
+- [**2026-02-02 11:38:52**] release ver 26.02
+- change log sebelumnya (https://github.com/cahyadsn/wilayah_logo/change_log.md) 
 
 ## DONASI
 - untuk donasi via transfer
@@ -82,4 +44,3 @@ Data logo/lambang daerah pemerintahan Republik Indonesia:
 
 ![screenshot**](https://github.com/cahyadsn/wilayah/blob/master/docs/qr_code.cahyadsn.png?raw=true 'Donasi via QRIS CAHYADSN')
 
-[di sini**]: https://wilayah.cahyadsn.com/
